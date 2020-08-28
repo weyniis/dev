@@ -12,7 +12,7 @@ Steam Refreshing Kuasa Bulan is a tool that will remove large amounts of data le
 
 
 
-This software is under development still got a lot improvement.. follow on my discord to get update on this project
+This software is under development. follow on my discord to receive notify on this project
 
 ### How to install and run Steam Refreshing Kuasa Bulan
 
