@@ -19,15 +19,11 @@ This software is under development. follow on my discord to receive notify on th
 
 #### Install from Releases
 
-- Download the latest build from: https://github.com/aDLeee99/dev/releases
-
 - Run it
 
 
 ### Contact
 
-
-[Discord](https://discord.gg/afFdNGW)
 
 [![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/no-ragrets.svg)](http://forthebadge.com)
